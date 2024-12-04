@@ -1,0 +1,1 @@
+This repository demonstrates a common Perl error: accessing an array element beyond its defined index. The `bug.pl` file shows the erroneous code, which results in undefined behavior. The `bugSolution.pl` file provides a corrected version using the `$#array` construct or a more sophisticated bounds check.
